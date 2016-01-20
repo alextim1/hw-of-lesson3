@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\MatrixReader\MatrixReader\bin\Debug\MatrixReader.exe.config
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\MatrixReader\MatrixReader\bin\Debug\MatrixReader.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\MatrixReader\MatrixReader\bin\Debug\MatrixReader.pdb
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\MatrixReader\MatrixReader\obj\Debug\MatrixReader.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\MatrixReader\MatrixReader\obj\Debug\MatrixReader.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\MatrixReader\MatrixReader\obj\Debug\MatrixReader.pdb
